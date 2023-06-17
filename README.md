@@ -2,20 +2,11 @@
 
 # Предисловия
 
-Привет всем! Меня зовут [Роман Шавинцев](https://vk.com/rosha586). Я являюсь автором гайда и кодером проекта "Кельрариум. Медовый погребок".
+Привет всем! Меня зовут [Роман Шавинцев](ок".
 
 Конечно, данная новелла не была бы осуществлена без усердия всей команды разработчиков:
 
-Основатель и сценарист данной визуальной новеллы - [Максим Печень](https://vk.com/id369782827), который вложил в проект душу.
-
-Композиторы, [Artem Zebrev](https://vk.com/az_giametal) и [Yarrist](https://vk.com/yarrist_music), которые наполнили новеллу звуковым оформлением;.
-
-Художники, [Педучилище Злобное](https://vk.com/id674208733), [D_SMILE](https://vk.com/d_smile_directory) и [BeTry](https://vk.com/betryy), которые создали красочные арты и спрайты.
-
-Актуальную информацию по разработке проекта можно узнать в [нашей группе во ВКонтакте](https://vk.com/kelrarioom).
-
-# Написание кода
-Для начала нужно создать файл с расширением `.rpy.` Затем открыть его в текстовом редакторе и следовать инструкциям в руководстве.
+Основатель и сценарист данной визуальной новеллы - [Максим Печень](дучилище Злобное](работке проекта можно узнать в [нашей группе во ВКонтакте](.` Затем открыть его в текстовом редакторе и следовать инструкциям в руководстве.
 
 Лично я предпочитаю использовать редактор кода Sublime Text 3, так как он удобен и мне уже знаком.
 
@@ -128,32 +119,32 @@ label my_mod_2:
 
 | Код             | Предпросмотр   |
 | ----------------| ---------------------------------------------------------------------------------------------------------------------- |
-| `scene Misly`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/c2c6c7e0-5327-40e2-9622-929490df7ee3" width="300">|
-| `scene Port_day`  | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/2cd3e3a7-c8af-4cf6-82a0-3c148ad79bb3" width="300">|
-| `scene Hunter_shop`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/d31771d6-d1f9-4fd3-9137-608c8198d9b0" width="300">|
-| `scene bg_milk_cl`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/b5eac110-adb6-4479-882d-60e8b0ff95f5" width="300"> |
-| `scene bg_milk_op`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/232ea222-cbcb-4da6-8cc4-0d8e64bc8fe4" width="300"> |
-| `scene manor_sunset`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/9d65e1fd-a418-4d3a-ab5d-99a461c76184" width="300"> |
-| `scene bg_street`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/e87ebb5a-5656-4175-aa72-8bc5a185dd54" width="300"> |
+| `scene Misly`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/fa68d205-d8f7-4c78-b8ec-7f1732fd736b" width="300">|
+| `scene Port_day`  | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/faa530fd-620a-4666-9b6d-ddcfb54c1293" width="300">|
+| `scene Hunter_shop`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/4af7002c-233e-4710-b5ff-77a10044366e" width="300">|
+| `scene bg_milk_cl`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/9e8d3584-4714-403a-a400-b20c40196581" width="300"> |
+| `scene bg_milk_op`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/ac80628c-4d3e-406a-a69f-20b4bdcb43c3" width="300"> |
+| `scene manor_sunset`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/53f3a798-5276-4cd3-9351-71f8d14a0efe" width="300"> |
+| `scene bg_street`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/88e991e1-c685-4f88-a26f-4909e923f705" width="300"> |
 
 # Иллюстрации
 Иллюстрации из игры представлены в таблице ниже:
 
 | Код             | Предпросмотр   |
 | ----------------| ---------------------------------------------------------------------------------------------------------------------- |
-| `scene Teplohod_1` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/334b4f90-7961-4e04-8638-e29e1fe2a42d" width="300"> |
-| `scene Teplohod_2` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/b95df110-0080-4ab8-8528-ba937fd776f2" width="300"> |
-| `scene Teplohod_3` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/0958ce66-ff7c-457f-b95e-55acbb9e3d6e" width="300"> |
-| `scene Teplohod_4` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/7d02c44b-f87b-41dd-b598-6dc79324c95c" width="300"> |
-| `scene kas_stroking_sc` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/8a0f7ef3-9356-4fe8-966e-c4be8a783d0e" width="300"> |
-| `scene Scarlett_run` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/7520aa29-2877-4c55-b0cd-d7d2c118ec5c" width="300"> |
-| `scene maf_walk_n` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/80702944-e4b1-4fa6-95d3-89cfd6ee2353" width="300"> |
-| `scene maf_walk_s` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/87ac4012-955e-48d8-b727-72b7de2794ce" width="300"> |
-| `scene ayla_walk_1` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/d94b1436-0e4f-405a-83ca-4de29bffee41" width="300"> |
-| `scene ayla_walk_2` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/5dd297e3-1aa3-418d-8483-a9897ddad6cf" width="300"> |
-| `scene ayla_walk_3` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/d13af4b2-9d0b-4353-a437-d20923c2932f" width="300"> |
-| `scene ayla_walk_4` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/3731086d-1e9f-4e4a-bf4b-6c084487763f" width="300"> |
-| `scene maf_food`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/53616493-4319-44d7-aea1-db399dcf659b" width="300"> |
+| `scene Teplohod_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5c72530e-b3ce-4ea1-b441-34bd49957c2c" width="300"> |
+| `scene Teplohod_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/122b826f-bd0a-4364-8137-91a104a127ce" width="300"> |
+| `scene Teplohod_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/43283628-ab57-4372-a023-7d09141829c1" width="300"> |
+| `scene Teplohod_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/0203fd86-4509-45e8-a677-c3c3900d8832" width="300"> |
+| `scene kas_stroking_sc` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/167d917f-ff6e-488a-90ed-dc9f6fba19e1" width="300"> |
+| `scene Scarlett_run` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2aed1f67-eaba-461b-b4ca-7b44138804b8" width="300"> |
+| `scene maf_walk_n` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/cb3f2485-fcac-4730-93e4-728242b0b9d3" width="300"> |
+| `scene maf_walk_s` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/eccafb02-7a2f-4709-970c-8b2c1a586ec0" width="300"> |
+| `scene ayla_walk_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/7aa7baf4-3b78-40dd-aa1b-6076ce9953a7" width="300"> |
+| `scene ayla_walk_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/6af4ac52-5199-497c-b33d-77730b17923e" width="300"> |
+| `scene ayla_walk_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/9c9662eb-66f3-47d1-8b05-6d4a82bd5719" width="300"> |
+| `scene ayla_walk_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/392ca624-1b80-4600-9f60-5732f973813c" width="300"> |
+| `scene maf_food`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/8289daf4-63f2-428d-bc7e-15bd61405f5f" width="300"> |
 
 
 # Спрайты
@@ -171,80 +162,80 @@ ____________________________
 
 | код                   | Предпросмотр    |
 |-----------------------|-----------------|
-| `show maf maf_cl_1`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/3e680c2a-5d62-4c1b-b12d-6cb63463f098" width="150">
-| `show maf maf_cl_2`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/ec31e694-9aeb-4d4e-9534-d1cb869f3352" width="150">
-| `show maf maf_cl_3`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/43d8a9c6-926a-45eb-90ee-ed90136b8727" width="150">
-| `show maf maf_cl_4`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/1123b5a9-39bb-490c-9d4a-3af539cd8c93" width="150">
-| `show maf maf_cl_5`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/c7d65d82-955f-42d0-9160-360de82a8cf8" width="150">
-| `show maf maf_cl_6`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/2cef77e0-9b3e-4d6f-8aa5-eb8b30732ebd" width="150">
-| `show maf maf_cl_7`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/368f9049-351c-48f8-b222-08da87f08951" width="150">
-| `show maf maf_cl_8`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/88715715-ab7c-47fb-9387-b1882dc1ce87" width="150">
-| `show maf maf_cl_9`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a4cdc9e4-e412-4e89-bcef-bc27309ac2df" width="150">
-| `show maf maf_cl_10`    | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a49a344c-a35b-487f-bc28-46110df11ee9" width="150">
-| `show maf maf_cl_11`    | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/e7de81f7-aad4-477a-8af0-b6d608dc579a" width="150">
-| `show sc scrl_hun_cl_1` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/e85fbdf7-c6fd-4c48-8397-7d32422587d3" width="150">
-| `show sc scrl_hun_cl_2` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/43a14dd8-3da6-47b5-8e92-2d748fee1224" width="150">
-| `show sc scrl_hun_cl_3` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/883561cb-01b2-43e1-8aa5-f225a533448a" width="150">
-| `show sc scrl_hun_cl_4` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/3d90ffbb-1840-4301-a8fd-136531777c03" width="150">
-| `show sc scrl_hun_cl_5` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/be6ceaff-b40d-42de-882c-d4007f31f917" width="150">
-| `show sc scrl_hun_cl_6` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/4f28e1d9-abf7-4391-8bfe-3d09d4d90e33" width="150">
-| `show sc scrl_hun_cl_7` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/dd7551db-2620-45e0-b5a1-40a04f5f0763" width="150">
-| `show sc scrl_hun_cl_8` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/b5eaf5ae-b27f-4ac1-853c-09f341c39853" width="150">
-| `show sc scrl_hun_cl_9` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/d43072e5-fff7-4a06-b0b9-b74e072db4a1" width="150">
-| `show sc scrl_hun_cl_10` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/9683b079-68cd-4341-a3cc-76e0bf2bde14" width="150">
-| `show sc scrl_hun_cl_11` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/ccd544d3-155a-440d-8167-2cf425a03fa0" width="150">
+| `show maf maf_cl_1`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/23ef72f5-4567-40e4-9bf0-68767a866dae" width="150">
+| `show maf maf_cl_2`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/170374c5-d748-4e67-b255-fa5d2b3d3443" width="150">
+| `show maf maf_cl_3`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2fbb0e5f-3554-4d76-98c5-78a437c22fef" width="150">
+| `show maf maf_cl_4`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/ed09af33-6f13-432f-bfb1-496a429aa23c" width="150">
+| `show maf maf_cl_5`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/587ea7d2-7cff-4264-ac12-b983403a0177" width="150">
+| `show maf maf_cl_6`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/6be27f87-0905-4f81-a8dc-ed48eb879474" width="150">
+| `show maf maf_cl_7`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/64393847-da38-4c05-afcb-bb35373bbe74" width="150">
+| `show maf maf_cl_8`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/99a670e1-b92d-408d-9880-2da345306426" width="150">
+| `show maf maf_cl_9`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/dde0b0e7-50ab-4a19-89ab-7634887e095c" width="150">
+| `show maf maf_cl_10`    | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/8fd68002-51cd-4a78-a683-540d8dde4df6" width="150">
+| `show maf maf_cl_11`    | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/6b1fb763-b052-431a-a12b-d18a5f3618f3" width="150">
+| `show sc scrl_hun_cl_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/b8a148bb-b531-4583-a84e-4021e9ae41ac" width="150">
+| `show sc scrl_hun_cl_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/479314da-74f7-452a-91c5-6561068a1192" width="150">
+| `show sc scrl_hun_cl_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/3194cbde-8704-422e-8e26-7433b31888ea" width="150">
+| `show sc scrl_hun_cl_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/33ea546a-1652-4f98-891b-9d4a11037918" width="150">
+| `show sc scrl_hun_cl_5` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/aba25f7d-d030-42ac-b7d9-af8cc1e69448" width="150">
+| `show sc scrl_hun_cl_6` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2bef60ed-404f-41d8-b153-e116c9f886ca" width="150">
+| `show sc scrl_hun_cl_7` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/e344e61a-f523-4d15-b95f-c619ad206334" width="150">
+| `show sc scrl_hun_cl_8` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/0e95aa3a-1976-4ce5-94f5-6a429592e867" width="150">
+| `show sc scrl_hun_cl_9` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/793fcfc8-7a1a-4128-a97f-3cc6c44a7602" width="150">
+| `show sc scrl_hun_cl_10` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/f0b6e43e-38a4-4e4f-93ea-1bd59ac85028" width="150">
+| `show sc scrl_hun_cl_11` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/1ec6fd97-65ed-4106-aad6-5a632f6c9c4f" width="150">
 
 - `far`
 
 | код                       | Предпросмотр    |
 |---------------------------|-----------------|
-| `show maf maf_far_1`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a79ca319-5b68-45d8-9495-3ab2944c57b0" width="150"> |
-| `show maf maf_far_2`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/8b4a4055-428d-4b11-9707-32df86c3a3e2" width="150"> |
-| `show maf maf_far_3`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/6fa3f75b-6a41-4ef1-9376-d16e157abefd" width="150"> |
-| `show maf maf_far_4`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/0ad0f331-4af9-4063-9d65-2a1e3a2262f1" width="150"> |
-| `show maf maf_far_5`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a332ab9d-7d6f-4155-a5ba-656259a99158" width="150"> |
-| `show maf maf_far_6`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/dcf1bedc-91d1-4580-ad5e-4cfb40ef825e" width="150"> |
-| `show maf maf_far_7`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/75763bbf-7412-4f1f-8396-7489faeee867" width="150"> |
-| `show maf maf_far_8`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/7c2d5afe-fc79-4692-81b7-1065851192ab" width="150"> |
-| `show maf maf_far_9`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/c9d87b96-bf09-4cf6-ba65-10547f31fae8" width="150"> |
-| `show maf maf_far_10`    | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/7edd7a79-3b4f-4404-b803-0fd55021d7da" width="150"> |
-| `show sc scrl_hun_far_1` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a4411031-625b-4777-a80d-29f25eca7233" width="150"> |
-| `show sc scrl_hun_far_2` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/66d6bbec-0bc8-40d9-80e3-594c1a0fcff9" width="150"> |
-| `show sc scrl_hun_far_3` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/5d186026-8e35-46cd-96f2-bea81792d042" width="150"> |
-| `show sc scrl_hun_far_4` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/b0fe6409-3b14-4fb6-b9b9-cf73d757f5be" width="150"> |
-| `show sc scrl_hun_far_5` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/b750be49-5c2f-42fe-a80e-530081e9e9cb" width="150"> |
-| `show sc scrl_hun_far_6` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/aa3323fc-3157-4d6d-9525-a2e3cebede37" width="150"> |
-| `show sc scrl_hun_far_7` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/dd8c1e3e-02a1-41f1-8bad-ce51bc735ee9" width="150"> |
-| `show sc scrl_hun_far_8` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/267972fe-4713-48aa-af74-91b9f5ac0e74" width="150"> |
-| `show sc scrl_hun_far_9` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/dfb26b9e-4c3d-48a1-a8cf-b3ada60c33d6" width="150"> |
-| `show sc scrl_hun_far_10`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/adc9af1f-d1cf-4478-a17d-3ae9d8de9623" width="150"> |
-| `show sc scrl_hun_far_11`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/51875d10-4dc2-4693-8449-17ee600b9fa4" width="150"> |
+| `show maf maf_far_1`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/6def1713-6e5d-4599-be92-e3e2ea58b557" width="150"> |
+| `show maf maf_far_2`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/3cebb546-8f5f-460d-9938-427f7cc70838" width="150"> |
+| `show maf maf_far_3`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/f405ae97-45e8-4545-b568-397ea0bf1f11" width="150"> |
+| `show maf maf_far_4`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/4353246e-2743-48fd-a01f-fc2e72fcf1dd" width="150"> |
+| `show maf maf_far_5`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/d79f224d-084c-4937-9068-6ec626dd4134" width="150"> |
+| `show maf maf_far_6`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/1f49a66c-3758-457f-aac2-9a47a7eb90ef" width="150"> |
+| `show maf maf_far_7`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/42605e8a-ed3b-4909-b2d0-2e8b9f6bd57a" width="150"> |
+| `show maf maf_far_8`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/c151d88c-029d-483b-891a-70d4cc2d9f0b" width="150"> |
+| `show maf maf_far_9`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/dae0addb-9523-40c0-88d8-f4458053d9d3" width="150"> |
+| `show maf maf_far_10`    | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/bc0f142c-0d94-4f21-8ddc-0558bab79438" width="150"> |
+| `show sc scrl_hun_far_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/50faed94-ae18-4ab9-bd95-2697281a45dd" width="150"> |
+| `show sc scrl_hun_far_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/91cf688e-9bad-49bd-99fa-f6788020792e" width="150"> |
+| `show sc scrl_hun_far_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/8dbd3582-0994-4d91-9f33-086e0f77034c" width="150"> |
+| `show sc scrl_hun_far_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2963e7be-438e-45aa-99c6-df5d5ba2c1fe" width="150"> |
+| `show sc scrl_hun_far_5` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/cae06a26-b297-4e4d-846d-f48edb279af3" width="150"> |
+| `show sc scrl_hun_far_6` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/1c3ef50c-ca77-4084-8ee7-e656000d88b8" width="150"> |
+| `show sc scrl_hun_far_7` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/f3b2d477-cf5a-440b-a44e-a881d12d8be9" width="150"> |
+| `show sc scrl_hun_far_8` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/3375a8e2-2f40-45ec-8ba9-93a5b1425068" width="150"> |
+| `show sc scrl_hun_far_9` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/c7219cbe-a58f-4516-8100-ed1322ab4594" width="150"> |
+| `show sc scrl_hun_far_10`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/816b4e74-cbea-42ae-bea5-f15d07433b61" width="150"> |
+| `show sc scrl_hun_far_11`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/3086c174-bf7f-4f02-8921-488baa4494e2" width="150"> |
 
 - `normal`
 
 | код                       | Предпросмотр    |
 |---------------------------|-----------------|
-| `show maf maf_norm_1`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a51b95dd-c46b-44e2-b0eb-27f2fd5bbdcc" width="150"> |
-| `show maf maf_norm_2`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/2104db94-ae3c-466c-97ca-07a321efbf97" width="150"> |
-| `show maf maf_norm_3`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/59684436-1964-414b-bc1d-989ed4a4b3f8" width="150"> |
-| `show maf maf_norm_4`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/e4dcf53f-6c8b-4a04-8a3e-f18017bfa8b2" width="150"> |
-| `show maf maf_norm_5`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/324e0f08-7daf-482d-8017-a4e667d65f7e" width="150"> |
-| `show maf maf_norm_6`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/1f7bcca1-4dce-478e-aaa8-3247a14f0466" width="150"> |
-| `show maf maf_norm_7`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/7801df3d-47d1-4934-a521-5b437930c908" width="150"> |
-| `show maf maf_norm_8`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a2d0e285-9b15-4db7-b3ec-eedf8be1f930" width="150"> |
-| `show maf maf_norm_9`     | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/d3293642-b462-49ed-97a0-088d57eb0639" width="150"> |
-| `show maf maf_norm_10`    | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/56a38f01-5b0d-413c-b97d-8b5469e6c0d0" width="150"> |
-| `show sc scrl_hun_norm_1` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/5c198b16-6bd6-4e46-b80f-25fb02537aff" width="150"> |
-| `show sc scrl_hun_norm_2` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/1509fe3d-9bd1-4d21-a856-ab1e93c0e2c7" width="150"> |
-| `show sc scrl_hun_norm_3` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/aa17b70c-7cf0-41b8-8164-cf24fb74e06a" width="150"> |
-| `show sc scrl_hun_norm_4` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/1450c699-0b9f-49b0-96a1-cb0b953016b0" width="150"> |
-| `show sc scrl_hun_norm_5` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/346fa7ed-a289-42aa-8650-4c01fdbe7956" width="150"> |
-| `show sc scrl_hun_norm_6` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/eda75b6a-a756-4628-b50e-2223c40a72a9" width="150"> |
-| `show sc scrl_hun_norm_7` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/c2d219ed-f4bb-40f6-a5c4-40e533987c34" width="150"> |
-| `show sc scrl_hun_norm_8` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/a9348f0a-cf0f-4ad5-b0d4-b68ed4edd9d3" width="150"> |
-| `show sc scrl_hun_norm_9` | <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/37ee14b6-4606-40b4-bdd9-184742d8ddd6" width="150"> |
-| `show sc scrl_hun_norm_10`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/77ef6c78-406d-4add-a4b8-90a2fb9f4faa" width="150"> |
-| `show sc scrl_hun_norm_11`| <img src="https://github.com/RoSHaX/Kelrarium-guid-/assets/135022625/83f6a052-da55-4472-8020-ba046ce18438" width="150"> |
+| `show maf maf_norm_1`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/b59104a6-6ec6-4154-946d-94b90229c571" width="150"> |
+| `show maf maf_norm_2`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/f348e7fc-0058-4829-b03c-58e1f5d281c4" width="150"> |
+| `show maf maf_norm_3`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/445a84b0-43f4-44f7-b2ca-acbd3532231a" width="150"> |
+| `show maf maf_norm_4`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/f224bf71-f62e-4734-8c89-e60c30b94743" width="150"> |
+| `show maf maf_norm_5`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/e47e8624-93af-4152-8c93-434e389ef8a5" width="150"> |
+| `show maf maf_norm_6`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/770eb035-746e-45c3-9950-bb2fd17c1c49" width="150"> |
+| `show maf maf_norm_7`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5d40c57c-94f8-4805-adec-96d73deb2f05" width="150"> |
+| `show maf maf_norm_8`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/c1da87e0-0bdb-47a3-8f6c-8edc50c48949" width="150"> |
+| `show maf maf_norm_9`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/eee8a648-96b9-4712-982f-b6cbe654fafb" width="150"> |
+| `show maf maf_norm_10`    | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/498fbab4-83f6-4c5a-b1fb-3ce9e0e8e44e" width="150"> |
+| `show sc scrl_hun_norm_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/a0468f54-9b63-4ff0-afc4-f9968169c542" width="150"> |
+| `show sc scrl_hun_norm_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/3ad89355-ec19-4d6f-963b-888acbc9555c" width="150"> |
+| `show sc scrl_hun_norm_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/58db232c-9ce1-41b3-8eb9-2441dc8f7be2" width="150"> |
+| `show sc scrl_hun_norm_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/eb115907-d3d2-468b-ad21-e4d4efb3c5c9" width="150"> |
+| `show sc scrl_hun_norm_5` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2f9e096f-cbe6-48fe-a6e4-e5d26557bf92" width="150"> |
+| `show sc scrl_hun_norm_6` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/7f89e34c-dce3-4785-a813-bf42e5036494" width="150"> |
+| `show sc scrl_hun_norm_7` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5401e18f-2579-4f24-9e75-658ea1725baf" width="150"> |
+| `show sc scrl_hun_norm_8` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/8a1e2171-6f44-4c57-9e5c-d5b75040d209" width="150"> |
+| `show sc scrl_hun_norm_9` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/4e33d530-4918-451d-81df-90661975df69" width="150"> |
+| `show sc scrl_hun_norm_10`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/bb36bb65-8186-4af3-8bf4-41da09b80c65" width="150"> |
+| `show sc scrl_hun_norm_11`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/7ff89e9a-4a4f-4974-a619-05d57ffa7448" width="150"> |
 
 
 # Анимации появления
@@ -294,11 +285,7 @@ label my_mod:
 
 - Я настоятельно рекомендую использовать теги. В данном примере, слово "bg" выступает в качестве тега для изображения. Если объявить несколько фоновых изображений с таким же тегом, то при показе следующего изображения оно автоматически заменит предыдущее.
 
-Кроме того, возможна создание анимации с использованием изображений. Подробнее об этом вы можете узнать на [странице документации](https://www.renpy.org/doc/html/atl.html)
-
-# Звуки
-
-"Ren'Py поддерживает воспроизведение музыки и звуковых эффектов, используя следующие форматы аудио файлов: Opus, Ogg Vorbis, mp3, wav."
+Кроме того, возможна создание анимации с использованием изображений. Подробнее об этом вы можете узнать на [странице документации](и звуковых эффектов, используя следующие форматы аудио файлов: Opus, Ogg Vorbis, mp3, wav."
 
 - # Добавление звуков, музыки, эмбиенса
 
@@ -392,10 +379,5 @@ label my_mod:
 ```
 
 Также можно использовать видео, как отображаемые объекты и спрайты.
-Но об этом можно узнать [тут](https://www.renpy.org/doc/html/movie.html)
-
-
-_______________________________________________________
-Спасибо, что прочитали данное руководство! Надеюсь, оно было полезным для вас. Если у вас есть какие-либо вопросы или комментарии, не стесняйтесь обращаться ко [мне](https://vk.com/rosha586). Буду рад вам помочь!
-
-P.S Статья будет регулярно обновляться вместе с обновлениями игры!
+Но об этом можно узнать [тут](_____
+Спасибо, что прочитали данное руководство! Надеюсь, оно было полезным для вас. Если у вас есть какие-либо вопросы или комментарии, не стесняйтесь обращаться ко [мне]( обновлениями игры!
