@@ -324,7 +324,6 @@ label my_mod_1:
 
 | код                                  | Название                  |
 |--------------------------------------|---------------------------|
-| play music music_list["Infinity"]    | Artem Zebrev - Infinity   |
 | play music music_list["Gray_Man"]    | Artem Zebrev - Gray_Man   |
 | play music music_list["Kelt_reliz"]  | Artem Zebrev - Kelt_reliz |
 
