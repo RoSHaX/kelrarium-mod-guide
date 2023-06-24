@@ -1,5 +1,4 @@
 <h1 align="center">Кельрариум - Гайд по созданию модов.</h1>
-<h1 aligh="center"><img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/b866985e-35e2-4f2e-abb5-252b1f425adf" width="1280"></h1>
 
 # Предисловия
 
@@ -129,9 +128,9 @@ label my_mod_2:
 
 | Код             | Предпросмотр   |
 | ----------------| ---------------------------------------------------------------------------------------------------------------------- |
-| `scene Misly`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/fa68d205-d8f7-4c78-b8ec-7f1732fd736b" width="300">|
-| `scene Port_day`  | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/faa530fd-620a-4666-9b6d-ddcfb54c1293" width="300">|
-| `scene Hunter_shop`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/4af7002c-233e-4710-b5ff-77a10044366e" width="300">|
+| `scene misly`     | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/fa68d205-d8f7-4c78-b8ec-7f1732fd736b" width="300">|
+| `scene port_day`  | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/faa530fd-620a-4666-9b6d-ddcfb54c1293" width="300">|
+| `scene hunter_shop`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/4af7002c-233e-4710-b5ff-77a10044366e" width="300">|
 | `scene bg_milk_cl`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/9e8d3584-4714-403a-a400-b20c40196581" width="300"> |
 | `scene bg_milk_op`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/ac80628c-4d3e-406a-a69f-20b4bdcb43c3" width="300"> |
 | `scene manor_sunset`| <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/53f3a798-5276-4cd3-9351-71f8d14a0efe" width="300"> |
@@ -142,12 +141,12 @@ label my_mod_2:
 
 | Код             | Предпросмотр   |
 | ----------------| ---------------------------------------------------------------------------------------------------------------------- |
-| `scene Teplohod_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5c72530e-b3ce-4ea1-b441-34bd49957c2c" width="300"> |
-| `scene Teplohod_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/122b826f-bd0a-4364-8137-91a104a127ce" width="300"> |
-| `scene Teplohod_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/43283628-ab57-4372-a023-7d09141829c1" width="300"> |
-| `scene Teplohod_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/0203fd86-4509-45e8-a677-c3c3900d8832" width="300"> |
+| `scene teplohod_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5c72530e-b3ce-4ea1-b441-34bd49957c2c" width="300"> |
+| `scene teplohod_2` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/122b826f-bd0a-4364-8137-91a104a127ce" width="300"> |
+| `scene teplohod_3` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/43283628-ab57-4372-a023-7d09141829c1" width="300"> |
+| `scene teplohod_4` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/0203fd86-4509-45e8-a677-c3c3900d8832" width="300"> |
 | `scene kas_stroking_sc` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/167d917f-ff6e-488a-90ed-dc9f6fba19e1" width="300"> |
-| `scene Scarlett_run` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2aed1f67-eaba-461b-b4ca-7b44138804b8" width="300"> |
+| `scene scarlett_run` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/2aed1f67-eaba-461b-b4ca-7b44138804b8" width="300"> |
 | `scene maf_walk_n` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/cb3f2485-fcac-4730-93e4-728242b0b9d3" width="300"> |
 | `scene maf_walk_s` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/eccafb02-7a2f-4709-970c-8b2c1a586ec0" width="300"> |
 | `scene ayla_walk_1` | <img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/7aa7baf4-3b78-40dd-aa1b-6076ce9953a7" width="300"> |
@@ -162,7 +161,7 @@ label my_mod_2:
 
 *Обычно*(Но не всегда) имена спрайтов состоят из слов, разделенных пробелом, включающих имя персонажа, его эмоцию и одежду. `<имя персонажа> <эмоция> <одежда>` Например: "ann smile sport" или "pavel angry short".
 
-Но,В нашей новелле мы сделали проще, все спрайты у нас полноценны, то есть не разделенные на части.
+*НО*,В нашей новелле мы сделали проще, все спрайты у нас полноценны, то есть не разделенные на части.
 
 Таблица со спрайтами:
 
@@ -324,6 +323,7 @@ label my_mod_1:
 
 | код                                  | Название                  |
 |--------------------------------------|---------------------------|
+| play music music_list["Infinity"]    | Artem Zebrev - Infinity   |
 | play music music_list["Gray_Man"]    | Artem Zebrev - Gray_Man   |
 | play music music_list["Kelt_reliz"]  | Artem Zebrev - Kelt_reliz |
 
