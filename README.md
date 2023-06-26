@@ -1,4 +1,3 @@
-<h1 align="center">Кельрариум - Гайд по созданию модов.</h1>
 <h1 align="center"><img src="https://github.com/RoSHaX/kelrarium-mod-guide/assets/135022625/5c72530e-b3ce-4ea1-b441-34bd49957c2c" width="1080"></h1>
 
 # Предисловия
